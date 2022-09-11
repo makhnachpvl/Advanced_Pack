@@ -1,1 +1,2 @@
 String
+new_line_2
